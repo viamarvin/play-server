@@ -4,6 +4,6 @@ module.exports = {
     port: 8080,
 
     database: {
-        url: 'http://127.0.0.1/playserver',
+        url: 'mongodb://127.0.0.1/playserver',
     }
 }
