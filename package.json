@@ -1,0 +1,27 @@
+{
+  "name": "play-server",
+  "version": "0.0.1",
+  "description": "A game server for my mobile simple games",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viamarvin/play-server.git"
+  },
+  "keywords": [
+    "simple",
+    "game",
+    "server"
+  ],
+  "author": "Sergey Podrezov <sergey.podrezov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viamarvin/play-server/issues"
+  },
+  "homepage": "https://github.com/viamarvin/play-server#readme",
+  "dependencies": {
+    "restify": "^4.0.3"
+  }
+}
